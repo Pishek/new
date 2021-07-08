@@ -5,7 +5,8 @@
 345v
 
 ghb
-
+def fucrion ()
+	heeeeeLOpeople
 
 Привет ак деда?
 455544
