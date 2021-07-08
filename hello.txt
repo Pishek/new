@@ -1,7 +1,6 @@
 При
 
 #NEW PROG
-
 345v
 
 ghb
@@ -10,3 +9,6 @@ def fucrion ()
 
 Привет ак деда?
 455544
+
+def GG ():
+HELLO chile
