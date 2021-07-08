@@ -1,7 +1,6 @@
 При
 
 #NEW PROG
-
 345v
 
 ghb
@@ -9,3 +8,6 @@ ghb
 
 Привет ак деда?
 455544
+
+def GG ():
+HELLO chile
